@@ -1,0 +1,15 @@
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.csproj.AssemblyReference.cache
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.AssemblyInfoInputs.cache
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.AssemblyInfo.cs
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.csproj.CoreCompileInputs.cache
+C:\Users\lenda\Desktop\7hw\N52\bin\Debug\net6.0\N52.exe
+C:\Users\lenda\Desktop\7hw\N52\bin\Debug\net6.0\N52.deps.json
+C:\Users\lenda\Desktop\7hw\N52\bin\Debug\net6.0\N52.runtimeconfig.json
+C:\Users\lenda\Desktop\7hw\N52\bin\Debug\net6.0\N52.dll
+C:\Users\lenda\Desktop\7hw\N52\bin\Debug\net6.0\N52.pdb
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.dll
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\refint\N52.dll
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.pdb
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\N52.genruntimeconfig.cache
+C:\Users\lenda\Desktop\7hw\N52\obj\Debug\net6.0\ref\N52.dll
